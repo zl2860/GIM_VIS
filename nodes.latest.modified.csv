@@ -1,0 +1,958 @@
+node,group
+S_HDL_P,Small HDL (average diameter 8.7 nm)
+S_HDL_C,Small HDL (average diameter 8.7 nm)
+S_HDL_CE,Small HDL (average diameter 8.7 nm)
+Omega_3,Fatty acids
+Glucose,Glycolysis related metabolites
+Acetoacetate,Ketone bodies
+XS_VLDL_L,Very small VLDL (average diameter 31.3 nm)
+Total_C,Cholesterol
+Remnant_C,Cholesterol
+VLDL_C,Cholesterol
+Total_PL,Phospholipids
+Total_CE,Cholesteryl esters
+VLDL_CE,Cholesteryl esters
+Total_FC,Free cholesterol
+Total_L,Total lipids
+Phosphoglyc,Other lipids
+Cholines,Other lipids
+Phosphatidylc,Other lipids
+Sphingomyelins,Other lipids
+Total_FA,Fatty acids
+Omega_6,Fatty acids
+PUFA,Fatty acids
+SFA,Fatty acids
+LA,Fatty acids
+DHA,Fatty acids
+Pyruvate,Glycolysis related metabolites
+Citrate,Glycolysis related metabolites
+Albumin,Fluid balance
+S_VLDL_PL,Small VLDL (average diameter 36.8 nm)
+XS_VLDL_P,Very small VLDL (average diameter 31.3 nm)
+XS_VLDL_PL,Very small VLDL (average diameter 31.3 nm)
+XS_VLDL_C,Very small VLDL (average diameter 31.3 nm)
+XS_VLDL_CE,Very small VLDL (average diameter 31.3 nm)
+XS_VLDL_FC,Very small VLDL (average diameter 31.3 nm)
+IDL_L,IDL (average diameter 28.6 nm)
+IDL_PL,IDL (average diameter 28.6 nm)
+S_HDL_L,Small HDL (average diameter 8.7 nm)
+S_HDL_PL,Small HDL (average diameter 8.7 nm)
+S_HDL_FC,Small HDL (average diameter 8.7 nm)
+non_HDL_C,Cholesterol
+LDL_C,Cholesterol
+LDL_PL,Phospholipids
+LDL_CE,Cholesteryl esters
+LDL_L,Total lipids
+Total_P,Lipoprotein particle concentrations
+VLDL_P,Lipoprotein particle concentrations
+LDL_P,Lipoprotein particle concentrations
+ApoB,Apolipoproteins
+Omega_3_pct,Fatty acids
+M_VLDL_P,Medium VLDL (average diameter 44.5 nm)
+M_VLDL_PL,Medium VLDL (average diameter 44.5 nm)
+M_VLDL_C,Medium VLDL (average diameter 44.5 nm)
+M_VLDL_FC,Medium VLDL (average diameter 44.5 nm)
+S_VLDL_C,Small VLDL (average diameter 36.8 nm)
+S_VLDL_FC,Small VLDL (average diameter 36.8 nm)
+L_LDL_P,Large LDL (average diameter 25.5 nm)
+L_LDL_L,Large LDL (average diameter 25.5 nm)
+L_LDL_PL,Large LDL (average diameter 25.5 nm)
+L_LDL_C,Large LDL (average diameter 25.5 nm)
+L_LDL_CE,Large LDL (average diameter 25.5 nm)
+M_LDL_P,Medium LDL (average diameter 23 nm)
+M_LDL_L,Medium LDL (average diameter 23 nm)
+M_LDL_PL,Medium LDL (average diameter 23 nm)
+M_LDL_C,Medium LDL (average diameter 23 nm)
+M_LDL_CE,Medium LDL (average diameter 23 nm)
+S_LDL_P,Small LDL (average diameter 18.7 nm)
+S_LDL_CE,Small LDL (average diameter 18.7 nm)
+L_LDL_CE_pct,Relative lipoprotein lipid concentrations
+HDL_P,Lipoprotein particle concentrations
+Acetone,Ketone bodies
+LDL_TG,Triglycerides
+XS_VLDL_TG,Very small VLDL (average diameter 31.3 nm)
+IDL_TG,IDL (average diameter 28.6 nm)
+L_LDL_TG,Large LDL (average diameter 25.5 nm)
+XL_HDL_TG,Very large HDL (average diameter 14.3 nm)
+bOHbutyrate,Ketone bodies
+XL_HDL_PL_pct,Relative lipoprotein lipid concentrations
+L_HDL_TG,Large HDL (average diameter 12.1 nm)
+HDL_TG,Triglycerides
+SFA_pct,Fatty acids
+M_LDL_TG,Medium LDL (average diameter 23 nm)
+M_HDL_TG,Medium HDL (average diameter 10.9 nm)
+S_HDL_TG,Small HDL (average diameter 8.7 nm)
+XXL_VLDL_PL_pct,Relative lipoprotein lipid concentrations
+L_LDL_TG_pct,Relative lipoprotein lipid concentrations
+M_LDL_TG_pct,Relative lipoprotein lipid concentrations
+S_LDL_TG_pct,Relative lipoprotein lipid concentrations
+MUFA,Fatty acids
+S_VLDL_TG,Small VLDL (average diameter 36.8 nm)
+S_LDL_TG,Small LDL (average diameter 18.7 nm)
+L_VLDL_PL_pct,Relative lipoprotein lipid concentrations
+S_LDL_CE_pct,Relative lipoprotein lipid concentrations
+M_HDL_TG_pct,Relative lipoprotein lipid concentrations
+S_HDL_TG_pct,Relative lipoprotein lipid concentrations
+S_HDL_FC_pct,Relative lipoprotein lipid concentrations
+HDL_PL,Phospholipids
+HDL_FC,Free cholesterol
+HDL_L,Total lipids
+ApoA1,Apolipoproteins
+XL_HDL_P,Very large HDL (average diameter 14.3 nm)
+M_HDL_L,Medium HDL (average diameter 10.9 nm)
+M_HDL_PL,Medium HDL (average diameter 10.9 nm)
+M_HDL_FC,Medium HDL (average diameter 10.9 nm)
+M_HDL_FC_pct,Relative lipoprotein lipid concentrations
+VLDL_FC,Free cholesterol
+S_VLDL_P,Small VLDL (average diameter 36.8 nm)
+S_VLDL_L,Small VLDL (average diameter 36.8 nm)
+HDL_C,Cholesterol
+HDL_size,Lipoprotein particle sizes
+IDL_C,IDL (average diameter 28.6 nm)
+IDL_CE,IDL (average diameter 28.6 nm)
+XL_HDL_L,Very large HDL (average diameter 14.3 nm)
+XL_HDL_PL,Very large HDL (average diameter 14.3 nm)
+XL_HDL_C,Very large HDL (average diameter 14.3 nm)
+XL_HDL_CE,Very large HDL (average diameter 14.3 nm)
+XL_HDL_FC,Very large HDL (average diameter 14.3 nm)
+L_HDL_P,Large HDL (average diameter 12.1 nm)
+L_HDL_L,Large HDL (average diameter 12.1 nm)
+L_HDL_PL,Large HDL (average diameter 12.1 nm)
+L_HDL_FC,Large HDL (average diameter 12.1 nm)
+M_HDL_P,Medium HDL (average diameter 10.9 nm)
+M_HDL_C,Medium HDL (average diameter 10.9 nm)
+L_HDL_FC_pct,Relative lipoprotein lipid concentrations
+S_VLDL_CE,Small VLDL (average diameter 36.8 nm)
+IDL_P,IDL (average diameter 28.6 nm)
+IDL_FC,IDL (average diameter 28.6 nm)
+LDL_size,Lipoprotein particle sizes
+Unsaturation,Fatty acids
+XXL_VLDL_C_pct,Relative lipoprotein lipid concentrations
+XXL_VLDL_CE_pct,Relative lipoprotein lipid concentrations
+XL_VLDL_C_pct,Relative lipoprotein lipid concentrations
+XL_VLDL_CE_pct,Relative lipoprotein lipid concentrations
+XL_VLDL_FC_pct,Relative lipoprotein lipid concentrations
+L_VLDL_C_pct,Relative lipoprotein lipid concentrations
+L_VLDL_CE_pct,Relative lipoprotein lipid concentrations
+M_VLDL_PL_pct,Relative lipoprotein lipid concentrations
+M_VLDL_C_pct,Relative lipoprotein lipid concentrations
+M_VLDL_CE_pct,Relative lipoprotein lipid concentrations
+M_VLDL_FC_pct,Relative lipoprotein lipid concentrations
+S_VLDL_PL_pct,Relative lipoprotein lipid concentrations
+S_VLDL_C_pct,Relative lipoprotein lipid concentrations
+S_VLDL_CE_pct,Relative lipoprotein lipid concentrations
+S_VLDL_FC_pct,Relative lipoprotein lipid concentrations
+XS_VLDL_C_pct,Relative lipoprotein lipid concentrations
+XS_VLDL_CE_pct,Relative lipoprotein lipid concentrations
+IDL_C_pct,Relative lipoprotein lipid concentrations
+IDL_CE_pct,Relative lipoprotein lipid concentrations
+IDL_FC_pct,Relative lipoprotein lipid concentrations
+L_LDL_C_pct,Relative lipoprotein lipid concentrations
+L_LDL_FC_pct,Relative lipoprotein lipid concentrations
+S_LDL_FC_pct,Relative lipoprotein lipid concentrations
+S_HDL_C_pct,Relative lipoprotein lipid concentrations
+Acetate,Ketone bodies
+HDL_CE,Cholesteryl esters
+L_HDL_C,Large HDL (average diameter 12.1 nm)
+DHA_pct,Fatty acids
+M_HDL_C_pct,Relative lipoprotein lipid concentrations
+Gln,Amino acids
+Clinical_LDL_C,Cholesterol
+LDL_FC,Free cholesterol
+L_LDL_FC,Large LDL (average diameter 25.5 nm)
+Gly,Amino acids
+L_HDL_CE,Large HDL (average diameter 12.1 nm)
+M_HDL_CE,Medium HDL (average diameter 10.9 nm)
+XXL_VLDL_FC_pct,Relative lipoprotein lipid concentrations
+L_HDL_C_pct,Relative lipoprotein lipid concentrations
+PUFA_by_MUFA,Fatty acids
+M_HDL_CE_pct,Relative lipoprotein lipid concentrations
+PUFA_pct,Fatty acids
+M_LDL_FC_pct,Relative lipoprotein lipid concentrations
+S_LDL_PL_pct,Relative lipoprotein lipid concentrations
+L_HDL_CE_pct,Relative lipoprotein lipid concentrations
+Omega_6_pct,Fatty acids
+M_LDL_PL_pct,Relative lipoprotein lipid concentrations
+M_VLDL_TG_pct,Relative lipoprotein lipid concentrations
+S_VLDL_TG_pct,Relative lipoprotein lipid concentrations
+TG_by_PG,Other lipids
+MUFA_pct,Fatty acids
+XS_VLDL_PL_pct,Relative lipoprotein lipid concentrations
+XS_VLDL_TG_pct,Relative lipoprotein lipid concentrations
+IDL_TG_pct,Relative lipoprotein lipid concentrations
+XL_HDL_TG_pct,Relative lipoprotein lipid concentrations
+L_HDL_TG_pct,Relative lipoprotein lipid concentrations
+M_HDL_PL_pct,Relative lipoprotein lipid concentrations
+L_VLDL_TG_pct,Relative lipoprotein lipid concentrations
+XXL_VLDL_TG_pct,Relative lipoprotein lipid concentrations
+Total_TG,Triglycerides
+VLDL_TG,Triglycerides
+VLDL_PL,Phospholipids
+VLDL_L,Total lipids
+VLDL_size,Lipoprotein particle sizes
+Ala,Amino acids
+His,Amino acids
+Total_BCAA,Amino acids
+Ile,Amino acids
+Val,Amino acids
+Phe,Amino acids
+Lactate,Glycolysis related metabolites
+Creatinine,Fluid balance
+GlycA,Inflammation
+XXL_VLDL_P,Chylomicrons and extremely large VLDL (particle diameters from 75 nm upwards)
+XXL_VLDL_L,Chylomicrons and extremely large VLDL (particle diameters from 75 nm upwards)
+XXL_VLDL_PL,Chylomicrons and extremely large VLDL (particle diameters from 75 nm upwards)
+XXL_VLDL_C,Chylomicrons and extremely large VLDL (particle diameters from 75 nm upwards)
+XXL_VLDL_CE,Chylomicrons and extremely large VLDL (particle diameters from 75 nm upwards)
+XXL_VLDL_FC,Chylomicrons and extremely large VLDL (particle diameters from 75 nm upwards)
+XXL_VLDL_TG,Chylomicrons and extremely large VLDL (particle diameters from 75 nm upwards)
+XL_VLDL_P,Very large VLDL (average diameter 64 nm)
+XL_VLDL_L,Very large VLDL (average diameter 64 nm)
+XL_VLDL_PL,Very large VLDL (average diameter 64 nm)
+XL_VLDL_C,Very large VLDL (average diameter 64 nm)
+XL_VLDL_CE,Very large VLDL (average diameter 64 nm)
+XL_VLDL_FC,Very large VLDL (average diameter 64 nm)
+XL_VLDL_TG,Very large VLDL (average diameter 64 nm)
+L_VLDL_P,Large VLDL (average diameter 53.6 nm)
+L_VLDL_L,Large VLDL (average diameter 53.6 nm)
+L_VLDL_PL,Large VLDL (average diameter 53.6 nm)
+L_VLDL_C,Large VLDL (average diameter 53.6 nm)
+L_VLDL_CE,Large VLDL (average diameter 53.6 nm)
+L_VLDL_FC,Large VLDL (average diameter 53.6 nm)
+L_VLDL_TG,Large VLDL (average diameter 53.6 nm)
+M_VLDL_TG,Medium VLDL (average diameter 44.5 nm)
+XL_VLDL_TG_pct,Relative lipoprotein lipid concentrations
+M_LDL_CE_pct,Relative lipoprotein lipid concentrations
+L_HDL_PL_pct,Relative lipoprotein lipid concentrations
+Leu,Amino acids
+XL_HDL_FC_pct,Relative lipoprotein lipid concentrations
+LA_pct,Fatty acids
+M_VLDL_CE,Medium VLDL (average diameter 44.5 nm)
+S_LDL_FC,Small LDL (average diameter 18.7 nm)
+XS_VLDL_FC_pct,Relative lipoprotein lipid concentrations
+M_LDL_C_pct,Relative lipoprotein lipid concentrations
+S_LDL_C_pct,Relative lipoprotein lipid concentrations
+XL_HDL_CE_pct,Relative lipoprotein lipid concentrations
+S_HDL_CE_pct,Relative lipoprotein lipid concentrations
+Tyr,Amino acids
+S_HDL_PL_pct,Relative lipoprotein lipid concentrations
+Omega_6_by_Omega_3,Fatty acids
+S_LDL_PL,Small LDL (average diameter 18.7 nm)
+Spectrometer_corrected_alanine,""
+ApoB_by_ApoA1,Apolipoproteins
+S_LDL_L,Small LDL (average diameter 18.7 nm)
+M_VLDL_L,Medium VLDL (average diameter 44.5 nm)
+IDL_PL_pct,Relative lipoprotein lipid concentrations
+L_LDL_PL_pct,Relative lipoprotein lipid concentrations
+M_LDL_FC,Medium LDL (average diameter 23 nm)
+S_LDL_C,Small LDL (average diameter 18.7 nm)
+XL_VLDL_PL_pct,Relative lipoprotein lipid concentrations
+L_VLDL_FC_pct,Relative lipoprotein lipid concentrations
+XL_HDL_C_pct,Relative lipoprotein lipid concentrations
+RHD,Gene
+RHCE,Gene
+SDHDP6,Gene
+RP3-465N24.5,Gene
+TMEM50A,Gene
+SMARCA4,Gene
+CEP250,Gene
+RPL36P4,Gene
+RP5-968P14.2,Gene
+PIGV,Gene
+PABPC4,Gene
+RP11-69E11.8,Gene
+ZNF408,Gene
+ACP2,Gene
+C1QTNF4,Gene
+ACADM,Gene
+THEM4,Gene
+S100A10,Gene
+RP11-124N2.1,Gene
+ZNF713,Gene
+PSPH,Gene
+TMED5,Gene
+GSTA2,Gene
+PRMT6,Gene
+PARP10,Gene
+COX16,Gene
+DDTL,Gene
+DDT,Gene
+GSTT2B,Gene
+AP000350.4,Gene
+AP000350.6,Gene
+MIF,Gene
+KB-226F1.2,Gene
+AP000350.5,Gene
+BTN3A2,Gene
+RP5-874C20.3,Gene
+ZSCAN12P1,Gene
+ZNF165,Gene
+ZKSCAN3,Gene
+TRIM27,Gene
+TMEM199,Gene
+POLDIP2,Gene
+CCDC116,Gene
+CTD-2376I4.2,Gene
+FCHO2,Gene
+IFI27L1,Gene
+RAB5C,Gene
+PRR12,Gene
+RUSC1-AS1,Gene
+THBS3,Gene
+SLC22A5,Gene
+TMEM106C,Gene
+H1FNT,Gene
+DKFZP779L1853,Gene
+PFKM,Gene
+SF3B3,Gene
+IL34,Gene
+PFKL,Gene
+MFSD6,Gene
+GLS,Gene
+ITIH4,Gene
+WDR25,Gene
+RP11-345M22.2,Gene
+EML3,Gene
+EEF1G,Gene
+ATP6V0A2,Gene
+DNAH10,Gene
+DNAH10OS,Gene
+CETP,Gene
+PGAP3,Gene
+DDX17,Gene
+FAM227A,Gene
+CTA-398F10.2,Gene
+FAM86B3P,Gene
+AF131215.2,Gene
+AF131215.9,Gene
+AF131216.5,Gene
+NEIL2,Gene
+TDH,Gene
+MRPL35P2,Gene
+NEK4,Gene
+CTSB,Gene
+SNX11,Gene
+RP11-373D23.3,Gene
+ORM1,Gene
+CMTR2,Gene
+ZNF19,Gene
+TXNL4B,Gene
+FCGRT,Gene
+PPM1G,Gene
+AC093690.1,Gene
+GKAP1,Gene
+RMI1,Gene
+GPN1,Gene
+OPRL1,Gene
+RGS19,Gene
+PDHX,Gene
+KDM2B,Gene
+ARL16,Gene
+SLC16A3,Gene
+ALMS1P,Gene
+FAM47E-STBD1,Gene
+CCDC158,Gene
+UBE2D3,Gene
+PPP2R5D,Gene
+SIPA1,Gene
+SPATA5L1,Gene
+SLC47A1,Gene
+MYH7B,Gene
+GGT7,Gene
+ST3GAL4,Gene
+GEMIN7,Gene
+NBEAL2,Gene
+SETD2,Gene
+L3MBTL3,Gene
+PPP1R3B,Gene
+FAM85B,Gene
+C8orf49,Gene
+ENPP7P12,Gene
+NISCH,Gene
+FAM90A25P,Gene
+TP53BP1,Gene
+CATSPER2,Gene
+PON3,Gene
+AC004012.1,Gene
+NT5DC2,Gene
+RP11-62H7.2,Gene
+FAM208A,Gene
+PCCB,Gene
+FUT2,Gene
+RP11-256L6.3,Gene
+LTA4H,Gene
+IDUA,Gene
+DGKQ,Gene
+RP11-1267H10.3,Gene
+RP11-397E7.4,Gene
+GSTA1,Gene
+TMED4,Gene
+TUBE1,Gene
+CHST4,Gene
+RP11-159F24.6,Gene
+RPS6KB1,Gene
+RNFT1,Gene
+BAIAP2L2,Gene
+GNMT,Gene
+CNPY3,Gene
+RP3-475N16.1,Gene
+ASB4,Gene
+TOP1MT,Gene
+AD000090.2,Gene
+C6orf106,Gene
+KANK2,Gene
+FRK,Gene
+CBL,Gene
+SLC22A3,Gene
+SBNO1,Gene
+LMF1,Gene
+STARD3,Gene
+MAPKAPK5,Gene
+FUT1,Gene
+MS4A14,Gene
+PLTP,Gene
+SEC31B,Gene
+GATA4,Gene
+RP11-217B7.2,Gene
+CTGLF10P,Gene
+ANGPTL4,Gene
+TMC4,Gene
+TUBG2,Gene
+INCENP,Gene
+C16orf45,Gene
+A2M,Gene
+ABCB9,Gene
+ARL6IP4,Gene
+ADCY4,Gene
+LCMT2,Gene
+PRMT7,Gene
+ATP6V0D1,Gene
+ABHD12,Gene
+ACSS2,Gene
+ELP5,Gene
+DHX38,Gene
+DND1P1,Gene
+KANSL1-AS1,Gene
+LRRC37A2,Gene
+RP11-259G18.3,Gene
+WNT3,Gene
+CRHR1-IT1,Gene
+PSMG1,Gene
+PC32:1(16:0),LC-MS profile
+PC34:2(16:0),LC-MS profile
+PC34:1(16:0),LC-MS profile
+PC36:5(20:4),LC-MS profile
+PC36:4(20:4),LC-MS profile
+PC36:4(20:3),LC-MS profile
+PC36:3(20:3),LC-MS profile
+PC36:2(18:1),LC-MS profile
+PC38:6(20:4),LC-MS profile
+PC38:5(22:5),LC-MS profile
+PC38:5(20:4),LC-MS profile
+PC38:4(20:4),LC-MS profile
+PC40:7(22:5),LC-MS profile
+PC40:7(20:4),LC-MS profile
+PC40:7(20:3),LC-MS profile
+PC40:6(22:6),LC-MS profile
+PC40:5(22:5),LC-MS profile
+PC40:5(20:4),LC-MS profile
+PC36:4p(20:4),LC-MS profile
+LPE16:0,LC-MS profile
+PE34:2(16:0),LC-MS profile
+PE34:1(16:0),LC-MS profile
+PE36:3(16:0),LC-MS profile
+PE36:3(18:1),LC-MS profile
+PE36:2(18:1),LC-MS profile
+PE36:2(18:0),LC-MS profile
+PE36:1(18:0),LC-MS profile
+PE36:4(20:4),LC-MS profile
+PE38:6(22:6),LC-MS profile
+PE38:5(22:5),LC-MS profile
+PE38:4(20:4),LC-MS profile
+PE38:4(20:3),LC-MS profile
+PE40:6(22:6),LC-MS profile
+PE40:5(20:4),LC-MS profile
+PE40:5(22:6),LC-MS profile
+PE40:4p(20:4),LC-MS profile
+PE34:2,LC-MS profile
+PE36:4,LC-MS profile
+PE36:3,LC-MS profile
+PE36:2,LC-MS profile
+PE38:6,LC-MS profile
+PE38:5,LC-MS profile
+PE38:4,LC-MS profile
+PE38:3,LC-MS profile
+PE40:6,LC-MS profile
+PE36:1p,LC-MS profile
+PE40:5p,LC-MS profile
+LPA18:0,LC-MS profile
+PA34:1,LC-MS profile
+PA36:1,LC-MS profile
+PA38:3,LC-MS profile
+PA40:6,LC-MS profile
+LPI16:1,LC-MS profile
+LPI16:0,LC-MS profile
+PG36:3(18:1),LC-MS profile
+PG36:2(18:0),LC-MS profile
+PG36:4(20:4),LC-MS profile
+PG36:4(20:3),LC-MS profile
+PG36:3(20:3),LC-MS profile
+PG38:6(22:5),LC-MS profile
+PG38:5(20:4),LC-MS profile
+PG38:4(20:4),LC-MS profile
+PG38:3(20:3),LC-MS profile
+LBPA36:3(18:1),LC-MS profile
+LBPA36:2(18:0),LC-MS profile
+LBPA36:4(20:4),LC-MS profile
+LBPA36:4(20:3),LC-MS profile
+LBPA38:6(22:6),LC-MS profile
+LBPA38:5(20:4),LC-MS profile
+FFA20:5,LC-MS profile
+FFA20:4,LC-MS profile
+FFA20:3,LC-MS profile
+LysoPC14:0e,LC-MS profile
+PC36:4p,LC-MS profile
+PC32:0,LC-MS profile
+PC34:3,LC-MS profile
+PE,LC-MS profile
+PA,LC-MS profile
+SM,LC-MS profile
+L-Acetylcarnitine,LC-MS profile
+Hexanoylcarnitine,LC-MS profile
+Creatine,LC-MS profile
+L-Glutamic acid,LC-MS profile
+L-Threonine,LC-MS profile
+L-Asparagine,LC-MS profile
+Pyroglutamic acid,LC-MS profile
+L-Alpha-aminobutyric acid,LC-MS profile
+L-Glutamine,LC-MS profile
+L-Methionine,LC-MS profile
+Trigonelline,LC-MS profile
+N-Acetylglutamine,LC-MS profile
+Gamma-Glutamyl Glutamine,LC-MS profile
+N-Acetyl-L-methionine,LC-MS profile
+Leucyl-Arginine,LC-MS profile
+Isoleucyl-Isoleucine,LC-MS profile
+Phenylalanyl-Glutamate,LC-MS profile
+Glycocholic acid,LC-MS profile
+D-Glucose,LC-MS profile
+Phlorin,LC-MS profile
+Isocitric acid,LC-MS profile
+Arachidonic acid,LC-MS profile
+sn-2 LysoPC(20:3),LC-MS profile
+sn-2 LysoPC(20:5),LC-MS profile
+sn-2 LysoPC(22:6),LC-MS profile
+sn-2 LysoPE(18:1),LC-MS profile
+sn-2 LysoPE(22:6),LC-MS profile
+L-Malic acid,LC-MS profile
+Dihydrouracil,LC-MS profile
+rs10006043,SNP
+rs1004712,SNP
+rs10065689,SNP
+rs10065787,SNP
+rs1007602,SNP
+rs10083067,SNP
+rs10086500,SNP
+rs10090800,SNP
+rs10095190,SNP
+rs10105843,SNP
+rs10110380,SNP
+rs1023518,SNP
+rs1029472,SNP
+rs10410923,SNP
+rs10418197,SNP
+rs10461028,SNP
+rs10499172,SNP
+rs1051613,SNP
+rs10522335,SNP
+rs1057603,SNP
+rs10747526,SNP
+rs10761735,SNP
+rs10773000,SNP
+rs1077950,SNP
+rs10782582,SNP
+rs10796941,SNP
+rs10842914,SNP
+rs10849891,SNP
+rs10875753,SNP
+rs10875754,SNP
+rs10875764,SNP
+rs10875766,SNP
+rs10875769,SNP
+rs10951769,SNP
+rs10982156,SNP
+rs11039167,SNP
+rs11070460,SNP
+rs11075764,SNP
+rs1108551,SNP
+rs111267264,SNP
+rs11153596,SNP
+rs111980103,SNP
+rs111981233,SNP
+rs112065503,SNP
+rs11220465,SNP
+rs11239532,SNP
+rs11250092,SNP
+rs11250167,SNP
+rs112563428,SNP
+rs11264381,SNP
+rs1127773,SNP
+rs1132054,SNP
+rs113886122,SNP
+rs1155043,SNP
+rs11555809,SNP
+rs11604451,SNP
+rs11625168,SNP
+rs11647947,SNP
+rs11667321,SNP
+rs11668882,SNP
+rs11707895,SNP
+rs11767454,SNP
+rs11767787,SNP
+rs11768074,SNP
+rs11775625,SNP
+rs11861540,SNP
+rs11885217,SNP
+rs11900857,SNP
+rs11986122,SNP
+rs11993892,SNP
+rs11994805,SNP
+rs12030843,SNP
+rs12041534,SNP
+rs12053390,SNP
+rs12116923,SNP
+rs12134854,SNP
+rs12144212,SNP
+rs12319718,SNP
+rs12361031,SNP
+rs12416349,SNP
+rs12426835,SNP
+rs12437725,SNP
+rs12453290,SNP
+rs12453507,SNP
+rs12534274,SNP
+rs12548428,SNP
+rs12603380,SNP
+rs12611191,SNP
+rs12630999,SNP
+rs12693587,SNP
+rs12727590,SNP
+rs12759594,SNP
+rs12798109,SNP
+rs1280623,SNP
+rs12807887,SNP
+rs12808829,SNP
+rs12819124,SNP
+rs1295021,SNP
+rs12985178,SNP
+rs13040315,SNP
+rs13072802,SNP
+rs13212562,SNP
+rs13274028,SNP
+rs13282439,SNP
+rs1337775,SNP
+rs13392968,SNP
+rs13621,SNP
+rs1364076,SNP
+rs1377586,SNP
+rs1394092,SNP
+rs1424241,SNP
+rs143646210,SNP
+rs1484640,SNP
+rs1489110,SNP
+rs150567480,SNP
+rs153000,SNP
+rs153778,SNP
+rs153807,SNP
+rs1562211,SNP
+rs156743,SNP
+rs16833669,SNP
+rs1708872,SNP
+rs17149412,SNP
+rs17237174,SNP
+rs17496332,SNP
+rs17523380,SNP
+rs17689289,SNP
+rs17705633,SNP
+rs17748980,SNP
+rs17810889,SNP
+rs1821008,SNP
+rs1834953,SNP
+rs1835492,SNP
+rs1905339,SNP
+rs1908814,SNP
+rs1946959,SNP
+rs199526,SNP
+rs200073968,SNP
+rs2007950,SNP
+rs2036916,SNP
+rs2043131,SNP
+rs2051821,SNP
+rs2127128,SNP
+rs2130095,SNP
+rs2180314,SNP
+rs2186882,SNP
+rs2211080,SNP
+rs222130,SNP
+rs222140,SNP
+rs222836,SNP
+rs223445,SNP
+rs2236270,SNP
+rs2239194,SNP
+rs2243312,SNP
+rs226384,SNP
+rs2285809,SNP
+rs2293856,SNP
+rs2300560,SNP
+rs2305280,SNP
+rs2306029,SNP
+rs2393967,SNP
+rs2409814,SNP
+rs241780,SNP
+rs2425170,SNP
+rs242559,SNP
+rs2432236,SNP
+rs2440165,SNP
+rs2489003,SNP
+rs2522051,SNP
+rs2526358,SNP
+rs2540491,SNP
+rs255002,SNP
+rs2708673,SNP
+rs272875,SNP
+rs272878,SNP
+rs2732469,SNP
+rs2748999,SNP
+rs281385,SNP
+rs281393,SNP
+rs2836971,SNP
+rs28400012,SNP
+rs28424583,SNP
+rs28649568,SNP
+rs2878406,SNP
+rs2879179,SNP
+rs28793743,SNP
+rs2883582,SNP
+rs2893923,SNP
+rs2921073,SNP
+rs2921097,SNP
+rs2924257,SNP
+rs2929457,SNP
+rs2945230,SNP
+rs2952155,SNP
+rs295271,SNP
+rs296893,SNP
+rs2975648,SNP
+rs2976933,SNP
+rs2980752,SNP
+rs3024896,SNP
+rs3136505,SNP
+rs3136512,SNP
+rs3178166,SNP
+rs330910,SNP
+rs34032470,SNP
+rs34092276,SNP
+rs34130214,SNP
+rs34487437,SNP
+rs34569561,SNP
+rs34603591,SNP
+rs34669,SNP
+rs35073769,SNP
+rs35184771,SNP
+rs35836101,SNP
+rs35910103,SNP
+rs36655,SNP
+rs36656,SNP
+rs374145,SNP
+rs3742970,SNP
+rs3763236,SNP
+rs3768321,SNP
+rs3784275,SNP
+rs3789849,SNP
+rs3820594,SNP
+rs3829162,SNP
+rs3847327,SNP
+rs393155,SNP
+rs4021,SNP
+rs406123,SNP
+rs4075250,SNP
+rs408459,SNP
+rs41270829,SNP
+rs4128655,SNP
+rs414299,SNP
+rs4148862,SNP
+rs419469,SNP
+rs4282054,SNP
+rs4298563,SNP
+rs4319147,SNP
+rs4382480,SNP
+rs4419068,SNP
+rs4433149,SNP
+rs454715,SNP
+rs45535039,SNP
+rs45563939,SNP
+rs4665407,SNP
+rs4666051,SNP
+rs470926,SNP
+rs4818906,SNP
+rs4820324,SNP
+rs4822454,SNP
+rs483465,SNP
+rs4841101,SNP
+rs4841352,SNP
+rs4841661,SNP
+rs4853454,SNP
+rs4859664,SNP
+rs4866831,SNP
+rs4911509,SNP
+rs4949683,SNP
+rs4985540,SNP
+rs4987173,SNP
+rs5417,SNP
+rs55865839,SNP
+rs55941023,SNP
+rs56217494,SNP
+rs56324610,SNP
+rs5745412,SNP
+rs5745445,SNP
+rs5754177,SNP
+rs5757176,SNP
+rs57756484,SNP
+rs58089049,SNP
+rs58582416,SNP
+rs58775580,SNP
+rs59036878,SNP
+rs59119896,SNP
+rs59435184,SNP
+rs59618592,SNP
+rs6050429,SNP
+rs6058247,SNP
+rs6060112,SNP
+rs6060529,SNP
+rs6060699,SNP
+rs60648773,SNP
+rs60827133,SNP
+rs6088560,SNP
+rs6090040,SNP
+rs6090043,SNP
+rs6104390,SNP
+rs6115093,SNP
+rs61343568,SNP
+rs615632,SNP
+rs61770557,SNP
+rs61776818,SNP
+rs61791721,SNP
+rs61855876,SNP
+rs61895501,SNP
+rs62043313,SNP
+rs62362193,SNP
+rs62456648,SNP
+rs62488738,SNP
+rs62496027,SNP
+rs645040,SNP
+rs645692,SNP
+rs6499323,SNP
+rs6509440,SNP
+rs6569648,SNP
+rs6590199,SNP
+rs6601644,SNP
+rs6601649,SNP
+rs660745,SNP
+rs66944623,SNP
+rs6746971,SNP
+rs67546213,SNP
+rs6755241,SNP
+rs6780013,SNP
+rs67886319,SNP
+rs6830162,SNP
+rs6860806,SNP
+rs6880884,SNP
+rs6933958,SNP
+rs6940134,SNP
+rs6940837,SNP
+rs6981060,SNP
+rs6984820,SNP
+rs6985207,SNP
+rs6992818,SNP
+rs7000594,SNP
+rs7005904,SNP
+rs7014953,SNP
+rs7073746,SNP
+rs7075901,SNP
+rs7077580,SNP
+rs7083184,SNP
+rs7111517,SNP
+rs7118017,SNP
+rs7123635,SNP
+rs7133378,SNP
+rs7137494,SNP
+rs71636776,SNP
+rs7192865,SNP
+rs7194668,SNP
+rs7207979,SNP
+rs7212349,SNP
+rs7221814,SNP
+rs72702317,SNP
+rs72762851,SNP
+rs7296418,SNP
+rs731151,SNP
+rs73195303,SNP
+rs73196842,SNP
+rs73421065,SNP
+rs7398373,SNP
+rs7423104,SNP
+rs7459532,SNP
+rs75090039,SNP
+rs7562400,SNP
+rs7571572,SNP
+rs76236917,SNP
+rs76275337,SNP
+rs763121,SNP
+rs7665282,SNP
+rs76967117,SNP
+rs7703009,SNP
+rs77153312,SNP
+rs78059679,SNP
+rs7823610,SNP
+rs7826654,SNP
+rs78274618,SNP
+rs7829975,SNP
+rs7833103,SNP
+rs7835672,SNP
+rs7836608,SNP
+rs7838131,SNP
+rs7896910,SNP
+rs7902343,SNP
+rs79069889,SNP
+rs79260133,SNP
+rs79833227,SNP
+rs8008406,SNP
+rs8014671,SNP
+rs8049277,SNP
+rs8063990,SNP
+rs8109620,SNP
+rs8113877,SNP
+rs8115656,SNP
+rs814897,SNP
+rs84816,SNP
+rs853676,SNP
+rs863750,SNP
+rs864186,SNP
+rs867150,SNP
+rs8763,SNP
+rs886589,SNP
+rs925847,SNP
+rs9309662,SNP
+rs9414802,SNP
+rs9492452,SNP
+rs950802,SNP
+rs959829,SNP
+rs9675194,SNP
+rs9689,SNP
+rs9693857,SNP
+rs9694287,SNP
+rs9747973,SNP
+rs9835,SNP
+rs9889470,SNP
+rs9901901,SNP
+rs9933680,SNP

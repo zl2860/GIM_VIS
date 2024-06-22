@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Visualization</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body style="overflow: auto; padding: 10px;">
+    <div style="background-color: #3D2D6D; color: white; padding: 20px; line-height: 1.5;">
+        <div style="font-size: 25px;">IDDF-ABS: Genetically influenced metabotypes decode heterogeneous responses to H. pylori treatment in gastric cancer prevention</div>
+        <div style="font-size: 18px;"><i>Zong-Chao Liu1, Heng-min Xu1, Meng-Yuan Wang1, Wei-Cheng You1, Kai-Feng Pan1, Wen-Qing Li1, *</i></div>
+        <div style="font-size: 18px;"><i>1State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Beijing Key Laboratory of Carcinogenesis and Translational Research, Department of Cancer Epidemiology, Peking University Cancer Hospital & Institute, Beijing 100142, China</i></div>
+    </div>
+
+    <!-- Additional Information -->
+    <div style="padding: 5px; border-top: 2px solid #ccc; border-bottom: 2px solid #ccc;">
+        <h3>About the graph</h3>
+        <p style="margin-top: 0; margin-bottom: 1em; line-height: 1.5;">
+            1. A Gaussian graph LASSO model was applied to estimate the partial correlation among NMR blood metabolic biomarkers, as sourced from the UKB sub-cohort designed for this study.<br>
+            2. The connections (edges) between these NMR blood metabolic biomarkers were established based on the partial correlations. These correlations were determined using a Gaussian graph model constructed from data of 145,938 UK Biobank (UKB) participants.<br>
+            3. Node relationships between expression quantitative trait loci (eQTLs) and the NMR metabolic biomarkers were identified based on the single nucleotide polymorphisms (SNPs) associated with these biomarkers.<br>
+            4. <a href="#">Click here</a> to check the list of available information for queried nodes' tables.
+        </p>
+    </div>
+    
+
+    <!-- Query window (table) -->
+    <div id="query-window" style="width: 100%; overflow-y: scroll; padding: 10px; border-top: 2px solid #ccc; border-bottom: 2px solid #ccc; border-right: 2px solid #ccc; border-left: 2px solid #ccc;">
+        <!-- Node information will be displayed here -->
+    </div>
+
+    <!-- Main content wrapper -->
+    <div id="content-wrapper" style="display: flex; flex-wrap: wrap;">
+        
+        <!-- Legend -->
+        <div id="legend" style="padding: 5px; flex: 1; min-height: 10vh; overflow-y: auto; border-right: 2px solid #ccc; border-top: 2px solid #ccc; border-bottom: 2px solid #ccc;">
+            <!-- Legend content will be populated dynamically -->
+        </div>
+
+        <!-- Network visualization -->
+        <div id="network-wrapper" style="flex: 3; min-height: 60vh; border-top: 2px solid #ccc; border-bottom: 2px solid #ccc; ">
+            <select id="groupSelector" style="font-size: 1.5em; padding: 5px;">
+                <!-- Group options will be populated dynamically -->
+            </select>
+            <div>
+                <select id="nodeSelector" style="font-size: 1.5em; padding: 5px;">
+                    <!-- Node options will be populated dynamically -->
+                </select>
+
+                <label for="centralityRange" style="font-size: 1.5em; padding: 5px;">Eigencentrality Threshold:</label>
+                <input type="range" id="centralityRange" min="0" max="0.99" step="0.01" value="0">
+                
+                <button id="downloadData" style="font-size: 1.5em; padding: 5px; margin-bottom: 10px;">Download Network Data</button>
+                <button id="downloadBtn">Download Network as PNG</button>
+
+                <div id="network" style="height: 100%; overflow: auto; margin-right: 40px;">
+                <!-- D3 Network visualization will go here -->
+                </div>
+            </div>
+        </div>
+
+      
+    </div>
+
+    <!-- Footer -->
+    <div style="background-color: #3D2D6D; color: white; padding: 20px; text-align: center;">
+        <p>By using these results in your research, you agree to <a href="your-publication-link" style="color: #59e; text-decoration: none;">cite our publication</a>.</p>
+        <p>Developed by research teams from the Department of Cancer Epidemiology, Peking Univeristy Cancer Hospital & Institute</p>
+        <p>
+            <a href="legal-notice-link" style="color: #59e; text-decoration: none;">Legal notice</a> | 
+            <a href="license-terms-link" style="color: #59e; text-decoration: none;">License terms</a> | 
+            <a href="data-protection-statement-link" style="color: #59e; text-decoration: none;">Data Protection Statement</a>
+        </p>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

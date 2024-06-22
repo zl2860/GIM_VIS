@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unveiling Genetically Influenced Metabotypes for Gastric Cancer Risk Stratification: A Multi-Omics Study with Preliminary Insights into Primary Prevention</title>
+    <meta name="description" content="Zong-Chao Liu1, Heng-min Xu1, Meng-Yuan Wang1, Wei-Cheng You1, Kai-Feng Pan1, Wen-Qing Li1 from State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Beijing Key Laboratory of Carcinogenesis and Translational Research, Department of Cancer Epidemiology, Peking University Cancer Hospital & Institute, Beijing, China">
+
+    <!-- Add CSS for styling -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f5f7fa;
+        }
+        .top-bar, .bottom-bar {
+            height: 50px;
+            background-color: #1a237e; /* 深蓝色 */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            width: 100%;
+            position: fixed;
+            left: 0;
+            z-index: 999;
+        }
+        .top-bar { top: 0; }
+        .bottom-bar { bottom: 0; }
+        .content-container {
+            padding: 20px 40px;
+            max-width: none; /* 允许内容宽度铺满页面 */
+            margin: 70px auto 50px auto; /* 考虑到顶部和底部bar的高度 */
+            box-shadow: none; /* 去除内容区域阴影以提高图片清晰度 */
+        }
+        header h1 {
+            margin-bottom: 0;
+        }
+        .flex-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        .figure {
+            flex: 1;
+            min-width: 800px; /* 根据需要调整图片最小宽度 */
+            min-height: 300px; /* 根据需要调整图片最小高度 */
+        }
+        img {
+            width: 100%;
+            height: auto;
+            object-fit: contain; /* 确保图片在保持宽高比的同时尽可能填充满容器 */
+        }
+        .content {
+            flex: 2;
+            padding: 0 20px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .additional-info {
+            flex: 3;
+            list-style-type: disc;
+            padding: 0 20px;
+            font-size: 14px;
+            font-weight: normal; /* 将字体设为非加粗 */
+            line-height: 1.5; /* 设置行间距为1.5倍 */
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar"></div>
+
+    <div class="content-container">
+        <header>
+            <h1>Unveiling Genetically Influenced Metabotypes for Gastric Cancer Risk Stratification: A Multi-Omics Study with Preliminary Insights into Primary Prevention</h1>
+            <p>Zong-Chao Liu1, Heng-min Xu1, Meng-Yuan Wang1, Wei-Cheng You1, Kai-Feng Pan1, Wen-Qing Li1</p>
+            <p>State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Beijing Key Laboratory of Carcinogenesis and Translational Research, Department of Cancer Epidemiology, Peking University Cancer Hospital & Institute, Beijing, China</p>
+        </header>
+
+        <div class="flex-container">
+            <div class="figure">
+                <img src="./imgs/workflow.jpg" alt="Workflow figure">
+            </div>
+            <div class="content">
+                <p>We have developed an interactive panel for visualizing the complex relationships of the NMR biomarkers for gastric cancer. <a href="your-interactive-panel-url" target="_blank">Click to navigate to the panel.</a></p>
+                <div class="additional-info">
+                    <ul>
+                        <li>A Gaussian graph model was applied to estimate the partial correlation among NMR blood metabolic biomarkers, as sourced from Nightingale Health.</li>
+                        <li>The connections (edges) between these NMR blood metabolic biomarkers were established based on the partial correlations. These correlations were determined using a Gaussian graph model constructed from data of over 270,000 UK Biobank (UKB) participants.</li>
+                        <li>Node relationships between expression quantitative trait loci (eQTLs) and the NMR metabolic biomarkers were identified based on the single nucleotide polymorphisms (SNPs) associated with these biomarkers.</li>
+                        <li>The sankey diagram on the right illustrates the mapping route from the NMR metabolic biomarkers to the LC-MS metabolic profiles. Only Pearson correlation coefficients with absolute values greater than 0.15 are displayed on the graph.</li>
+                        <li>Odds ratios for Gastric cancer (or Early Gastric Cancer) versus mild precancerous gastric lesions were estimated for the mapped LC-MS metabolites. These estimations were adjusted for various factors, including age, sex, H. Pylori infection, and lifestyle factors like smoking and drinking.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Replace 'your-interactive-panel-url' with the actual URL -->
+    </div>
+
+    <div class="bottom-bar"></div>
+</body>
+</html>
